@@ -1,0 +1,3 @@
+[submodule "learngit"]
+	path = learngit
+	url = git@github.com:1412601533/learngit.git
