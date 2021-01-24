@@ -1,0 +1,4 @@
+[submodule "volc-sdk-python"]
+	path = volc-sdk-python
+	url = git@code.byted.org:volcengine/volc-sdk-python.git
+	branch = vod
